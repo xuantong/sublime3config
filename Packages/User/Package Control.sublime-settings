@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"CTags",
+		"Emmet",
+		"GoSublime",
+		"Markdown Preview",
+		"Package Control",
+		"Python Auto-Complete",
+		"SideBarEnhancements"
+	]
+}

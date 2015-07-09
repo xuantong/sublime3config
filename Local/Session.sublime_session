@@ -1,0 +1,1102 @@
+{
+	"folder_history":
+	[
+		"/Users/sheshangjun/Documents/workspace/objectC-workspace/AwesomeProject",
+		"/Users/sheshangjun/Documents/eclipse-workspace/java-workspace/bang",
+		"/Users/sheshangjun/Documents/workspace/ruby/dydoc",
+		"/Users/sheshangjun/Documents/eclipse-workspace/java-workspace/java_test",
+		"/Volumes/Elements",
+		"/Users/sheshangjun/Documents/workspace/html5/deeplink",
+		"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice",
+		"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog",
+		"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider",
+		"/Users/sheshangjun/Documents/workspace/python-workspace/python-test",
+		"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/branch_munion-taobao-android-sdk",
+		"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/munion-taobao-android-sdk",
+		"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog",
+		"/Users/sheshangjun/Downloads/src",
+		"/Users/sheshangjun/Documents/workspace/go-workspace/xuanspider"
+	],
+	"last_version": 3083,
+	"last_window_id": 92,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 728.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fun",
+						"funLog"
+					],
+					[
+						"shwo",
+						"showversion"
+					],
+					[
+						"show",
+						"showname"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 347.0,
+				"last_filter": "mark",
+				"selected_items":
+				[
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mp",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssm",
+						"Set Syntax: Markdown"
+					],
+					[
+						"makr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/sheshangjun/Documents/workspace/objectC-workspace/AwesomeProject/index.ios.js",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201506/本周工作情况概要说明201506.md",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201506/untitled.sql",
+				"/Users/sheshangjun/Desktop/test_d2.csv",
+				"/Users/sheshangjun/Desktop/android.momo.csv",
+				"/Users/sheshangjun/Desktop/moji.csv",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201505/本周工作情况概要说明201505.md",
+				"/Users/sheshangjun/Desktop/momo.csv",
+				"/Users/sheshangjun/Downloads/tao url.md",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201505/关于站外效果数据统计的说明",
+				"/Users/sheshangjun/Desktop/1.csv",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201503/本周工作情况概要说明201503.md",
+				"/Users/sheshangjun/Desktop/mongodb的时段支持，查询、坐标索引",
+				"/Users/sheshangjun/Documents/eclipse-workspace/wunion/dumper/src/Dump.pm",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201503/淘小铺推广项目需求沟通会议.md",
+				"/Users/sheshangjun/Documents/workspace/ruby/sinatra/test1.rb",
+				"/Users/sheshangjun/Downloads/dptools/原始未加密文件.csv",
+				"/Users/sheshangjun/Downloads/dptools/加密后文件.csv",
+				"/Users/sheshangjun/Downloads/dptools/dptools/_hashlib.pyd",
+				"/Users/sheshangjun/Documents/eclipse-workspace/java-workspace/java_test/TestMain.java",
+				"/Users/sheshangjun/Documents/eclipse-workspace/java-workspace/java_test/TestMain",
+				"/Users/sheshangjun/Documents/workspace/html5/deeplink/index.html",
+				"/Users/sheshangjun/Documents/workspace/html5/deeplink/src/app/views/minisite/contact.html",
+				"/Users/sheshangjun/Documents/workspace/html5/deeplink/src/app/views/minisite/test.html",
+				"/usr/local/bin/pyside_postinstall.py",
+				"/Users/sheshangjun/Desktop/ctrip_response2",
+				"/Users/sheshangjun/Desktop/ctrip_response3.xml",
+				"/Users/sheshangjun/Desktop/ctrip_response",
+				"/Users/sheshangjun/Desktop/<?xml version=\"1.0\"?><Response><Header ShouldRecor",
+				"/Users/sheshangjun/Desktop/ctrip_response1.xml",
+				"/Users/sheshangjun/Documents/work-doc/日常工作/deeplink文案",
+				"/Users/sheshangjun/Documents/work-doc/项目工作/deepLink相关-页面文案.png",
+				"/Users/sheshangjun/Documents/work-doc/项目工作/Deeplink介绍.pages",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/rpm/t-munion-dl-rdservice-build.sh",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/rpm/t-munion-dl-rdservice.spec",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/app/deeplink_go.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/app/libs/lua_dl_lib/dl_getDeepLink.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/ddl/util.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/ddl/lualibs/resty/random.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/ddl/lualibs/UUID.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/ddl/request.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/app/deeplink_transforms.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/meta/nginx.conf.template",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/tools/test_all.py",
+				"/Users/sheshangjun/Documents/work-doc/日常工作/deeplink接入文档说明评论",
+				"/Users/sheshangjun/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201412/2014年12月站内sdk&deeplink工作汇总.md",
+				"/Users/sheshangjun/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/sheshangjun/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/main.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/app.go",
+				"/Users/sheshangjun/Desktop/mongod.sh",
+				"/Users/sheshangjun/Desktop/mongodb.sh",
+				"/Users/sheshangjun/Desktop/appctl",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/spider_hyatt.py",
+				"/Users/sheshangjun/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/spider_spg_demo.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/ttuu.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/python-test/var imgUrl = \"http:::gw1.alicdn.com:bao:upload",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/python-test/test1.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/python-test/test2.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/python-test/test3.py",
+				"/Users/sheshangjun/Desktop/diveintopythonzh-cn-5.4b /py/apihelper.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/spider_db_orm.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/spider_db_demo.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/local_Mysql.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/le_spiderH/db.sql",
+				"/Users/sheshangjun/Downloads/NERD_tree.vim",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/utils/html.go",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/xuans/xuans.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/spider_spg.py",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/handler/admin.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/model/article.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/model/comment.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/model/content.go",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/branch_munion-taobao-android-sdk/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/branch_munion-taobao-android-sdk/munionSdk-common/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/branch_munion-taobao-android-sdk/munionSdk-aliyunOtt/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/munion-taobao-android-sdk/munionSdk-taobaoApp/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/munion-taobao-android-sdk/munionSdk-aliyunOtt/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/munion-taobao-android-sdk/munionSdk-common/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/munion-taobao-android-sdk/pom.xml",
+				"/Users/sheshangjun/Downloads/s_dw_log_app_user_track(2)-1.sh",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-typeahead.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models/biz-catgory.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models/db.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models/paginator.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models/tools.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/css/bootstrap-responsive.css",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/css/bootstrap.css",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/css/docs.css",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/application.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-affix.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-alert.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-button.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-carousel.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-collapse.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-dropdown.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-modal.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-popover.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-scrollspy.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-tab.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-tooltip.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-transition.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap.min.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/demo.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/html5shiv.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/jquery.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/README.md",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/google-code-prettify/prettify.css",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/google-code-prettify/prettify.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/holder/holder.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/test_dir/create_data.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/views/index.tpl",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/.gitignore",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/controllers/base_controllers.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/controllers/default.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/controllers/list.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/controllers/page.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models/biz-article.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/views/layout/header.html",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/sql/mysql.sql",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/conf/app.conf",
+				"/Users/sheshangjun/Downloads/https_chinese2.scottrade.com_formscenter_PDF_CForApp_W8Exp_single_template.pdf\".pdf%22",
+				"/Users/sheshangjun/Documents/eclipse-workspace/java-workspace/dl-service_branchs/dl-service/build-dev.bat",
+				"/Users/sheshangjun/Downloads/hyatt.txt",
+				"/Users/sheshangjun/Downloads/src/test/testGen.java"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"url_decode",
+					"\\|",
+					"\\|$",
+					"^\\|",
+					"\\|",
+					"|",
+					"\\|$",
+					"^\\|",
+					"\\|",
+					"\\|$ ",
+					"\\|$",
+					"^\\|",
+					"^|",
+					"mob_user_track_etl_log_1d",
+					"mob_user_track_log_1d",
+					"count",
+					"Starting initLocalConfig",
+					"createIndex",
+					"})\n",
+					"70平方米",
+					"设计酒店",
+					"设计",
+					"ERROR",
+					"lauren.liu@taobao.com",
+					" lauren.liu@taobao.com",
+					"h-item",
+					"豪华",
+					"豪华双床间 ",
+					"pay_link",
+					"paylink",
+					"link",
+					"modular_fold J_foldBar",
+					"_dropBoxTemp_",
+					"compare_pop_bd",
+					"compare_pop",
+					"1499",
+					"compare_pop",
+					"Powered by Brandwisdom (测试版)",
+					"modular_fold",
+					"1499",
+					"p_h5_0",
+					"含早",
+					"线下特惠",
+					"addressUrlConfig",
+					"希尔顿",
+					"super+m",
+					"alt+m",
+					"markdown",
+					"loading_video",
+					"program",
+					"endorsed",
+					"DEPLOY_FILENAME",
+					"STATUSROOT_HOME",
+					"gc.log",
+					"STATUSROOT_HOME",
+					"extract",
+					"CATALINA_PID",
+					"tomcat.pid",
+					"CATALINA_PID",
+					"BOOTSTRAP",
+					"tomcatstart",
+					"BOOTSTRAP",
+					"192.168.1.19",
+					"a------",
+					"resultBlock roomRateBlock box ",
+					"', '",
+					"build.plugins.plugin.version",
+					"maven-surefire-plugin",
+					"			\n",
+					"*",
+					"domain",
+					"a0a201415cf83c5287bdcdd36b4882",
+					"148179c3dba",
+					"14817957b2d_a0a20149bdbca53128b2d89ea8c53",
+					"148178a43c8_a0a2014ece0e121bc6590756b122e",
+					"\\"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					" ",
+					"",
+					"dropIndex",
+					"115.28.91.115",
+					"','",
+					" ",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.9o:///Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models":
+			{
+				"height": 124.0
+			},
+			"output.9o:///Users/sheshangjun/Documents/workspace/go-workspace/xuanspider/src/main":
+			{
+				"height": 124.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 124.0
+			},
+			"output.exec":
+			{
+				"height": 188.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"repla",
+						"replaceArrow"
+					]
+				],
+				"width": 392.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 244.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"render",
+						"renderLoadingView"
+					],
+					[
+						"fun",
+						"funLog"
+					],
+					[
+						"shwo",
+						"showversion"
+					],
+					[
+						"show",
+						"showname"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/sheshangjun/Documents/workspace/objectC-workspace/AwesomeProject/index.ios.js",
+					"settings":
+					{
+						"buffer_size": 3165,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "insert overwrite table munion_sdk_eventid_log_hour partition (ds=20150630 ,hour=00)\nselect  \n        app_version,\n        app_id,\n        split_part(app_id, '@', 1) as app_key,\n        split_part(app_id, '@', 2) as os,\n        epid,\n        sum(event_id_9002) as event_id_9002,\n        sum(event_id_9002_alitrackid) as event_id_9002_alitrackid,\n        sum(event_id_9001) as event_id_9001,\n        sum(event_id_2001_clickid_match) as event_id_2001_clickid_match\nfrom(\nselect\n    left_join_data.app_version,\n    left_join_data.app_id,\n    decode(keyvalue(left_join_data.9002_9001_args, ',', '=', 'epid'), NULL,\n           decode(split_part(left_join_data.9002_9001_click_id, '_', 1),\n                'A1',\n                'Android_SearchList',\n                'I1',\n                'ios_SearchList',\n                'HDI1',\n                'ipad_SearchList',\n                'A17',\n                'Android_TBHome&StarShop',\n                'I17',\n                'ios_TBHome&StarShop',\n                'HDI17',\n                'ipad_TBHome&StarShop',\n                'undefined'),\n            keyvalue(left_join_data.9002_9001_args, ',', '=', 'epid')) AS epid,\n    CASE WHEN (left_join_data.9002_9001_event_id=9002) THEN count(distinct left_join_data.9002_9001_click_id)\n         ELSE 0\n         END AS event_id_9002,\n    CASE WHEN (left_join_data.9002_9001_event_id=9002\n              and left_join_data.9002_9001_ali_trackid is not null) \n                THEN count(distinct left_join_data.9002_9001_click_id)\n         ELSE 0\n         END AS event_id_9002_alitrackid,\n    CASE WHEN (left_join_data.9002_9001_event_id=9001) \n        THEN count(distinct left_join_data.9002_9001_click_id)\n         ELSE 0\n         END AS event_id_9001,\n    CASE WHEN (left_join_data.9002_9001_event_id=9002 and left_join_data.2001_event_id=2001) \n    THEN \n        count(distinct left_join_data.2001_click_id)\n         ELSE 0\n    END AS event_id_2001_clickid_match\nfrom(\n    select\n        9002_9001_log.event_id as 9002_9001_event_id,\n        9002_9001_log.app_version,\n        9002_9001_log.app_id,\n        9002_9001_log.9002_9001_click_id,\n        9002_9001_log.9002_9001_ali_trackid,\n        9002_9001_log.args as 9002_9001_args,\n        2001_log.event_id as 2001_event_id,\n        2001_log.2001_click_id as 2001_click_id\n    from(\n        select event_id,\n            app_version,\n            app_id,\n            args,\n            keyvalue(args, ',', '=', 'clickid') as 9002_9001_click_id,\n            decode(bi_udf:bi_get_url_value(url_decode(keyvalue(args, ',', '=', 'redirecturl')), 'ali_trackid')\n            ,'',null,bi_udf:bi_get_url_value(url_decode(keyvalue(args, ',', '=', 'redirecturl')), 'ali_trackid'))  \n            as 9002_9001_ali_trackid\n         from \n            wireless_wdm.fact_cdo_user_track_hour  \n            where (event_id= 9001\n            or event_id = 9002)\n            and ds=20150630\n            and hour=00\n            and (app_range='taobao' or app_range='tmall' )\n    ) 9002_9001_log\n    left outer join(\n        select\n            keyvalue(args, ',','=', 'clickid') as 2001_click_id,\n            2001 as event_id,\n            count(*)\n        from\n            wireless_wdm.fact_cdo_user_track_hour\n        where\n            event_id=2001\n            and args like '%clickid=%'\n            and (case when page='Page_Shop'\n                        then keyvalue(args,',','=','shop_id') != ''\n                      when page='Page_Detail'\n                        then keyvalue(args,',','=','item_id') != ''\n                      when page='Page_WeApp'\n                        then keyvalue(args,',','=','seller_id') != ''\n                )\n            and ds=20150630\n            and hour=00\n            and (app_range='taobao' or app_range='tmall' )\n        group by keyvalue(args, ',','=', 'clickid')\n    ) 2001_log on 9002_9001_log.9002_9001_click_id=2001_log.2001_click_id\n)  left_join_data\ngroup by\n    left_join_data.app_version,\n    left_join_data.app_id,\n    left_join_data.9002_9001_event_id,\n    left_join_data.2001_event_id,\n    left_join_data.9002_9001_args,\n    decode(keyvalue(left_join_data.9002_9001_args, ',', '=', 'epid'), NULL,\n            decode(split_part(left_join_data.9002_9001_click_id, '_', 1),\n                'A1',\n                'Android_SearchList',\n                'I1',\n                'ios_SearchList',\n                'HDI1',\n                'ipad_SearchList',\n                'A17',\n                'Android_TBHome&StarShop',\n                'I17',\n                'ios_TBHome&StarShop',\n                'HDI17',\n                'ipad_TBHome&StarShop',\n                'undefined'),\n            keyvalue(left_join_data.9002_9001_args, ',', '=', 'epid')),\n    left_join_data.9002_9001_ali_trackid,\n    left_join_data.9002_9001_click_id\n)  a group by \n        app_version,\n        app_id,\n        epid\n    ;\n",
+					"settings":
+					{
+						"buffer_size": 4861,
+						"line_ending": "Unix",
+						"name": "insert overwrite table munion_sdk_eventid_log_hour"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 347.0,
+				"last_filter": "mark",
+				"selected_items":
+				[
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mp",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssm",
+						"Set Syntax: Markdown"
+					],
+					[
+						"makr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/sheshangjun/Documents/workspace/objectC-workspace/AwesomeProject"
+			],
+			"file_history":
+			[
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201506/本周工作情况概要说明201506.md",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201506/untitled.sql",
+				"/Users/sheshangjun/Desktop/1111.csv",
+				"/Users/sheshangjun/Documents/workspace/objectC-workspace/AwesomeProject/index.ios.js",
+				"/Users/sheshangjun/Documents/eclipse-workspace/java-workspace/bang/README.md",
+				"/Users/sheshangjun/Desktop/test_d2.csv",
+				"/Users/sheshangjun/Desktop/android.momo.csv",
+				"/Users/sheshangjun/Desktop/moji.csv",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201505/本周工作情况概要说明201505.md",
+				"/Users/sheshangjun/Desktop/momo.csv",
+				"/Users/sheshangjun/Downloads/tao url.md",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201505/关于站外效果数据统计的说明",
+				"/Users/sheshangjun/Desktop/1.csv",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201503/本周工作情况概要说明201503.md",
+				"/Users/sheshangjun/Desktop/mongodb的时段支持，查询、坐标索引",
+				"/Users/sheshangjun/Documents/eclipse-workspace/wunion/dumper/src/Dump.pm",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201503/淘小铺推广项目需求沟通会议.md",
+				"/Users/sheshangjun/Documents/workspace/ruby/sinatra/test1.rb",
+				"/Users/sheshangjun/Downloads/dptools/原始未加密文件.csv",
+				"/Users/sheshangjun/Downloads/dptools/加密后文件.csv",
+				"/Users/sheshangjun/Downloads/dptools/dptools/_hashlib.pyd",
+				"/Users/sheshangjun/Documents/eclipse-workspace/java-workspace/java_test/TestMain.java",
+				"/Users/sheshangjun/Documents/eclipse-workspace/java-workspace/java_test/TestMain",
+				"/Users/sheshangjun/Documents/workspace/html5/deeplink/index.html",
+				"/Users/sheshangjun/Documents/workspace/html5/deeplink/src/app/views/minisite/contact.html",
+				"/Users/sheshangjun/Documents/workspace/html5/deeplink/src/app/views/minisite/test.html",
+				"/usr/local/bin/pyside_postinstall.py",
+				"/Users/sheshangjun/Desktop/ctrip_response2",
+				"/Users/sheshangjun/Desktop/ctrip_response3.xml",
+				"/Users/sheshangjun/Desktop/ctrip_response",
+				"/Users/sheshangjun/Desktop/<?xml version=\"1.0\"?><Response><Header ShouldRecor",
+				"/Users/sheshangjun/Desktop/ctrip_response1.xml",
+				"/Users/sheshangjun/Documents/work-doc/日常工作/deeplink文案",
+				"/Users/sheshangjun/Documents/work-doc/项目工作/deepLink相关-页面文案.png",
+				"/Users/sheshangjun/Documents/work-doc/项目工作/Deeplink介绍.pages",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/rpm/t-munion-dl-rdservice-build.sh",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/rpm/t-munion-dl-rdservice.spec",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/app/deeplink_go.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/app/libs/lua_dl_lib/dl_getDeepLink.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/ddl/util.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/ddl/lualibs/resty/random.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/ddl/lualibs/UUID.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/ddl/request.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/app/deeplink_transforms.lua",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/meta/nginx.conf.template",
+				"/Users/sheshangjun/Documents/workspace/lua/dl-rdservice/tools/test_all.py",
+				"/Users/sheshangjun/Documents/work-doc/日常工作/deeplink接入文档说明评论",
+				"/Users/sheshangjun/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/sheshangjun/Documents/work-doc/MarkDown/201412/2014年12月站内sdk&deeplink工作汇总.md",
+				"/Users/sheshangjun/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/sheshangjun/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/main.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/app.go",
+				"/Users/sheshangjun/Desktop/mongod.sh",
+				"/Users/sheshangjun/Desktop/mongodb.sh",
+				"/Users/sheshangjun/Desktop/appctl",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/spider_hyatt.py",
+				"/Users/sheshangjun/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/spider_spg_demo.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/ttuu.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/python-test/var imgUrl = \"http:::gw1.alicdn.com:bao:upload",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/python-test/test1.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/python-test/test2.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/python-test/test3.py",
+				"/Users/sheshangjun/Desktop/diveintopythonzh-cn-5.4b /py/apihelper.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/spider_db_orm.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/spider_db_demo.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/local_Mysql.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/le_spiderH/db.sql",
+				"/Users/sheshangjun/Downloads/NERD_tree.vim",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/utils/html.go",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/xuans/xuans.py",
+				"/Users/sheshangjun/Documents/workspace/python-workspace/hotel_spider/spider_spg.py",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/handler/admin.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/model/article.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/model/comment.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/GoBlog/app/model/content.go",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/branch_munion-taobao-android-sdk/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/branch_munion-taobao-android-sdk/munionSdk-common/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/branch_munion-taobao-android-sdk/munionSdk-aliyunOtt/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/munion-taobao-android-sdk/munionSdk-taobaoApp/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/munion-taobao-android-sdk/munionSdk-aliyunOtt/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/munion-taobao-android-sdk/munionSdk-common/pom.xml",
+				"/Users/sheshangjun/Documents/eclipse-workspace/android-workspace/munion-taobao-android-sdk/pom.xml",
+				"/Users/sheshangjun/Downloads/s_dw_log_app_user_track(2)-1.sh",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-typeahead.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models/biz-catgory.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models/db.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models/paginator.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models/tools.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/css/bootstrap-responsive.css",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/css/bootstrap.css",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/css/docs.css",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/application.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-affix.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-alert.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-button.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-carousel.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-collapse.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-dropdown.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-modal.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-popover.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-scrollspy.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-tab.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-tooltip.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap-transition.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/bootstrap.min.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/demo.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/html5shiv.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/jquery.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/README.md",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/google-code-prettify/prettify.css",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/google-code-prettify/prettify.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/static/js/holder/holder.js",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/test_dir/create_data.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/views/index.tpl",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/.gitignore",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/controllers/base_controllers.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/controllers/default.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/controllers/list.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/controllers/page.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models/biz-article.go",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/views/layout/header.html",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/sql/mysql.sql",
+				"/Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/conf/app.conf",
+				"/Users/sheshangjun/Downloads/https_chinese2.scottrade.com_formscenter_PDF_CForApp_W8Exp_single_template.pdf\".pdf%22",
+				"/Users/sheshangjun/Documents/eclipse-workspace/java-workspace/dl-service_branchs/dl-service/build-dev.bat"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"log4j",
+					"  \n",
+					"url_decode",
+					"\\|",
+					"\\|$",
+					"^\\|",
+					"\\|",
+					"|",
+					"\\|$",
+					"^\\|",
+					"\\|",
+					"\\|$ ",
+					"\\|$",
+					"^\\|",
+					"^|",
+					"mob_user_track_etl_log_1d",
+					"mob_user_track_log_1d",
+					"count",
+					"Starting initLocalConfig",
+					"createIndex",
+					"})\n",
+					"70平方米",
+					"设计酒店",
+					"设计",
+					"ERROR",
+					"lauren.liu@taobao.com",
+					" lauren.liu@taobao.com",
+					"h-item",
+					"豪华",
+					"豪华双床间 ",
+					"pay_link",
+					"paylink",
+					"link",
+					"modular_fold J_foldBar",
+					"_dropBoxTemp_",
+					"compare_pop_bd",
+					"compare_pop",
+					"1499",
+					"compare_pop",
+					"Powered by Brandwisdom (测试版)",
+					"modular_fold",
+					"1499",
+					"p_h5_0",
+					"含早",
+					"线下特惠",
+					"addressUrlConfig",
+					"希尔顿",
+					"super+m",
+					"alt+m",
+					"markdown",
+					"loading_video",
+					"program",
+					"endorsed",
+					"DEPLOY_FILENAME",
+					"STATUSROOT_HOME",
+					"gc.log",
+					"STATUSROOT_HOME",
+					"extract",
+					"CATALINA_PID",
+					"tomcat.pid",
+					"CATALINA_PID",
+					"BOOTSTRAP",
+					"tomcatstart",
+					"BOOTSTRAP",
+					"192.168.1.19",
+					"a------",
+					"resultBlock roomRateBlock box ",
+					"', '",
+					"build.plugins.plugin.version",
+					"maven-surefire-plugin",
+					"			\n",
+					"*",
+					"domain",
+					"a0a201415cf83c5287bdcdd36b4882",
+					"148179c3dba",
+					"14817957b2d_a0a20149bdbca53128b2d89ea8c53",
+					"148178a43c8_a0a2014ece0e121bc6590756b122e",
+					"\\"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					" ",
+					"",
+					"dropIndex",
+					"115.28.91.115",
+					"','",
+					" ",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/sheshangjun/Documents/workspace/objectC-workspace/AwesomeProject"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/sheshangjun/Documents/workspace/objectC-workspace/AwesomeProject/index.ios.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3165,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										764,
+										764
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 6.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4861,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3708,
+										3708
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "insert overwrite table munion_sdk_eventid_log_hour",
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"default_dir": "/Users/sheshangjun/Documents/workspace/objectC-workspace/AwesomeProject",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1551.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models":
+			{
+				"height": 124.0
+			},
+			"output.9o:///Users/sheshangjun/Documents/workspace/go-workspace/xuanspider/src/main":
+			{
+				"height": 124.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 124.0
+			},
+			"output.exec":
+			{
+				"height": 188.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 127 1440 750 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"repla",
+						"replaceArrow"
+					]
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 244.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 91,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

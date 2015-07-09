@@ -1,0 +1,24 @@
+{
+	"9o.hist./Users/sheshangjun/Documents/workspace/go-workspace/xuanblog":
+	[
+		"ls"
+	],
+	"9o.hist./Users/sheshangjun/Documents/workspace/go-workspace/xuanblog/models":
+	[
+		"go list",
+		"cd .."
+	],
+	"9o.hist./Users/sheshangjun/Documents/workspace/go-workspace/xuanspider/src":
+	[
+		"go build",
+		"clear"
+	],
+	"9o.hist./Users/sheshangjun/Documents/workspace/go-workspace/xuanspider/src/main":
+	[
+		"go build xuanSpider.go",
+		"cd .."
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r14.12.06-1",
+	"version": "r14.12.06-1"
+}
